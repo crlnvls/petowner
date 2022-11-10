@@ -7,3 +7,4 @@ A pet adoption app
 - Socket.io
 - Django
 - Auth
+- Google login
